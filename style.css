@@ -1,0 +1,4 @@
+/* Padding and Width reset */
+* {
+  box-sizing: border-box;
+}
